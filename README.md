@@ -1,1 +1,2 @@
-# aliyun-open-sdk
+# 阿里云文本过滤服务
+# composer require xiaokus/aliyun-open-sdk
